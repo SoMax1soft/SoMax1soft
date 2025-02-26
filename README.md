@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**SoMax1soft/SoMax1soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%91%8B+Hello+there!+I'm+Max1soft)](https://max1soft.pw)
 
-Here are some ideas to get you started:
+💻 Developer from Ukraine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=411FF7&random=false&width=435&lines=%F0%9F%8D%B3+Skills+and+Technologies)](https://max1soft.pw)
+--------------------------
+
+*   **Languages**: Java, Python, NodeJS, HTML, React, TypeScript
+*   **Tools**: Git, Bash, Intelij IDEA, Putty, WinSCP, Sublime Text, Cursor
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&random=false&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://max1soft.pw)
+---------------
+
+[![Max1soft's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoMax1soft&show_icons=true&theme=jolly)](https://max1soft.pw)
+[![GitHub Streak](https://streak-stats.demolab.com?user=somax1soft&theme=catppuccin-macchiato)](https://max1soft.pw)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=3115F7&random=false&width=435&lines=%F0%9F%93%AB+Get+in+Touch)](https://max1soft.pw)
+---------------
+
+*   Telegram: [t.me/max1soft](https://t.me/max1soft)
+*   Site: [max1soft.pw](https://Max1soft.pw)
+*   Email: [mymax1soft@gmail.com](mailto:mymax1soft@gmail.com)
