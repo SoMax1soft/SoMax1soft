@@ -20,4 +20,4 @@
 
 *   Telegram: [t.me/max1soft](https://t.me/max1soft)
 *   Site: [max1soft.pw](https://Max1soft.pw)
-*   Email: [mymax1soft@gmail.com](mailto:mymax1soft@gmail.com)
+*   Email: [my@max1soft.pw](mailto:my@max1soft.pw)
