@@ -6,8 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=411FF7&random=false&width=435&lines=%F0%9F%8D%B3+Skills+and+Technologies)](https://max1soft.pw)
 --------------------------
 
+*   **ATTENTION**: Vibe coder found! <https://en.wikipedia.org/wiki/Vibe_coding>
 *   **Languages**: Java, Python, NodeJS, HTML, React, TypeScript
-*   **Tools**: Git, Bash, Intelij IDEA, Putty, WinSCP, Sublime Text, Cursor
+*   **Tools**: Git, Bash, Intelij IDEA, Putty, WinSCP, Sublime Text, Cursor , Kiro
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&random=false&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://max1soft.pw)
 ---------------
