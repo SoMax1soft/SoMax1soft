@@ -7,7 +7,7 @@
 --------------------------
 
 *   **ATTENTION**: Vibe coder found! <https://en.wikipedia.org/wiki/Vibe_coding>
-*   **Languages**: Java, Python, NodeJS, HTML, React, TypeScript
+*   **Languages**: Java, Python, NodeJS
 *   **Tools**: Git, Bash, Intelij IDEA, Putty, WinSCP, Sublime Text, Cursor , Kiro
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=3115F7&random=false&width=435&lines=%F0%9F%93%AB+Get+in+Touch)](https://max1soft.pw)
