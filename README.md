@@ -1,18 +1,38 @@
+# 👋 Hello World, I'm Max1soft!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%91%8B+Hello+there!+I'm+Max1soft)](https://max1soft.pw)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=411FF7&width=435&lines=Software+Developer;Backend+%26+Automation" alt="Typing SVG" />
+</p>
 
-💻 Developer from Ukraine
+💻 **Software Developer based in Ukraine.** 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=411FF7&random=false&width=435&lines=%F0%9F%8D%B3+Skills+and+Technologies)](https://max1soft.pw)
---------------------------
+Занимаюсь проектированием бэкенд-архитектуры, разработкой серверной логики и созданием скриптов для автоматизации процессов. Фокусируюсь на написании чистого, поддерживаемого кода и оптимизации инфраструктурных задач.
 
-*   **ATTENTION**: Vibe coder found! <https://en.wikipedia.org/wiki/Vibe_coding>
-*   **Languages**: Java, Python, NodeJS
-*   **Tools**: Git, Bash, Intelij IDEA, Putty, WinSCP, Sublime Text, Claude Code
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=3115F7&random=false&width=435&lines=%F0%9F%93%AB+Get+in+Touch)](https://max1soft.pw)
----------------
+## Skills & Technologies
 
-*   Telegram: [t.me/max1soft](https://t.me/max1soft)
-*   Site: [max1soft.pw](https://Max1soft.pw)
-*   Email: [me@max1soft.pw](mailto:me@max1soft.pw)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Linux Server Tools](https://img.shields.io/badge/Putty%20%7C%20WinSCP-005EA2?style=for-the-badge)
+
+---
+
+## Contact Information
+
+Открыт для предложений по работе, коммерческих проектов и задач по автоматизации.
+
+* Telegram: [t.me/max1soft](https://t.me/max1soft)
+* Website: [max1soft.pw](https://max1soft.pw)
+* Email: [me@max1soft.pw](mailto:me@max1soft.pw)
+
+---
+<p align="center">Thanks for visiting my profile!</p>
