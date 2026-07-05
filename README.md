@@ -1,9 +1,3 @@
-# 👋 Hello World, I'm Max1soft!
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=411FF7&width=435&lines=Software+Developer;Backend+%26+Automation" alt="Typing SVG" />
-</p>
-
 💻 **Software Developer based in Ukraine.** 
 
 Занимаюсь проектированием бэкенд-архитектуры, разработкой серверной логики и созданием скриптов для автоматизации процессов. Фокусируюсь на написании чистого, поддерживаемого кода и оптимизации инфраструктурных задач.
