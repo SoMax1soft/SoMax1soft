@@ -1,5 +1,7 @@
-<img width="1000" height="300" alt="photo_2026-09-21_18-13-47" src="https://github.com/user-attachments/assets/29ec1f7a-b217-448b-aaf5-f493e0a987d9" />
+
+<img width="1000" height="400" alt="photo_2026-09-21_18-13-47" src="https://github.com/user-attachments/assets/10a7738d-b126-43f8-a652-491c4790ce92" />
 # Larping llms and ml models
+
 
 ---
 
